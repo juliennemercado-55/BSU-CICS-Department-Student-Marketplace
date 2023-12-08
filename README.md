@@ -1,6 +1,6 @@
 # BSU-CICS-Department-Student-Marketplace
 
-# Welcome to the BSU CICS Department Student Marketplace! This platform is designed to facilitate buying and selling among students within the CICS Department at Batangas State University - The National Engineering University Lipa Campus.
+Welcome to the BSU CICS Department Student Marketplace! This platform is designed to facilitate buying and selling among students within the CICS Department at Batangas State University - The National Engineering University Lipa Campus.
 
 Table of Contents
 - Overview
