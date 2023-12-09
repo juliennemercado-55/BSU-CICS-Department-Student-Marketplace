@@ -20,7 +20,7 @@ The following are the primary objectives of the CICS Department Student Marketpl
     The online platform automates administrative tasks such as order processing, payment collection, and data management. This frees up CICS staff time and allows them to focus on other important initiatives.
 4. Enhance communication and engagement:
     The marketplace provides a central platform for CICS to communicate directly with students about new products, promotions, and events. This helps to build strong relationships, increase student engagement, and foster a sense of community within the CICS department.
-5. Gainvaluabledataandinsights:
+5. Gain valuable data and insights:
     The online platform provides data on student purchasing behavior, product preferences, and engagement levels. This information can be used to make informed decisions about product offerings, pricing strategies, and marketing campaigns, further optimizing the marketplace for both students and CICS.
 Overall, the CICS Department Student Marketplace seeks to establish a beneficial system that's helpful to both students and the CICS organization.
 
